@@ -1,0 +1,12 @@
+/* You are free to use SCSS (Sass) features here */
+@import "./variables";
+
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+
+.attribution a {
+  color: $attributionBlue;
+}
